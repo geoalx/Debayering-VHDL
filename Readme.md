@@ -24,6 +24,10 @@ Also for the second part we build a C programm that runs on the integrated ARM c
 
 Finally, the FPGA inside the Zynq 7000 uses [AXI DMA](https://www.xilinx.com/products/intellectual-property/axi_dma.html) which is a custom Direct Memory Access protocol to have an improved throughput.
 
+A visual representation of the usage of the DMA concept in our project is shown below.
+
+![Debayering with DMA access](/DMA.png)
+
 The files for the first part are located in the ```Zybo_Z7_Compatiomple_Version``` folder.
 
 ## PC Script
