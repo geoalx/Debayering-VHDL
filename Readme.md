@@ -1,4 +1,7 @@
 # Debayering Filter With VHDL
+
+[![build with Vivado](https://img.shields.io/badge/built%20with-Vivado-green)](https://www.xilinx.com/products/design-tools/vivado.html) 
+
 This project is a part of a course "VLSI Digital Systems" of National Technical University of Athens. The grade of this project was 10/10.
 
 ## First Part
